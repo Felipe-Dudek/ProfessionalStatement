@@ -1,4 +1,4 @@
-# ProfessionalStatement
+# Professional Statement
 Cybersecurity Professional Statement - Felipe Dudek
 
 I am a dedicated and proactive Cybersecurity Analyst with a strong background in programming, web development, and threat analysis. I thrive on problem-solving and continuous learning, always seeking to enhance my technical expertise and stay ahead of emerging cyber threats. My ability to collaborate effectively with teams and communicate complex security concepts makes me a valuable asset in any organization.
